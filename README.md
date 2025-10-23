@@ -2,7 +2,7 @@
 
 **Transform raw text into an intelligent and interactive knowledge graph powered by Ollama + Neo4j + React.**
 
-![Pro_KONDA Screenshot](./docs/sc.png)
+![Pro_KONDA Screenshot](./docs/scr.png)
 
 ---
 

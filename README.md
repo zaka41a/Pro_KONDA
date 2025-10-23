@@ -25,12 +25,12 @@ The goal: transform textual knowledge into a usable semantic structure — direc
 ---
 
 ## 🧱 Architecture
-
+```
 ┌──────────────┐ ┌─────────────┐ ┌──────────────┐  
 │ Frontend │────▶──│ Go Backend │────▶──│ Ollama + Neo4j │  
 │ (React + D3) │◀──────│ (REST API) │◀──────│ Local models │  
 └──────────────┘ └─────────────┘ └──────────────┘  
-
+```
 ---
 
 ## 🧩 Technologies

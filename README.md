@@ -150,9 +150,3 @@ Pull requests are welcome!
 - Create a feature branch  
 - Submit a pull request 🚀  
 
----
-
-## 📜 License
-```
-MIT License © 2025 [Zakaria]
-```

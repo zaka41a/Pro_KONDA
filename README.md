@@ -1,4 +1,4 @@
-# 🧠 Pro_KONDA — Local AI Knowledge Graph Studio
+# 🧠 Pro_KONDA . Local AI Knowledge Graph Studio
 
 **Transform raw text into an intelligent and interactive knowledge graph powered by Ollama + Neo4j + React.**
 
